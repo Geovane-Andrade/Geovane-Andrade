@@ -1,7 +1,7 @@
 
 # Geovane de Andrade Grangeiro
 
-Tenho 23 anos, sou formado em licenciatura em educação física e estou em transição de carreira. Curso atualmente Análise e Desenvolvimento de Sistemas e estou focado em backend por meio da linguagem Java 
+Tenho 25 anos, sou formado em licenciatura em educação física. Curso atualmente Análise e Desenvolvimento de Sistemas e estou focado em backend por meio da linguagem Java 
 
 ## Habilidades
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=Java) 
